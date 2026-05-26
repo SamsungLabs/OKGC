@@ -11,3 +11,5 @@ results/
 data/lsq/
 data/query-bgps/
 
+.DS_Store
+*.DS_Store
