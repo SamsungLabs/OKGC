@@ -1,0 +1,13 @@
+.idea
+.venv
+*.egg-info
+*.lock
+
+__pycache__
+
+kgs/
+vindex/
+results/
+data/lsq/
+data/query-bgps/
+
