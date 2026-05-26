@@ -301,7 +301,7 @@ This will print the results in two formats: Markdown (in ```results.md```) and i
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for more information.
 
 
-### External Code
+## External Code
 
 This repository incorporates or adapts code from the following open-source projects:
 
