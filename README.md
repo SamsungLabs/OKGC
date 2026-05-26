@@ -1,4 +1,4 @@
-# OAK + MEND: Knowledge Graph Construction under Ontology Constraints
+# S OAK + MEND: Knowledge Graph Construction under Ontology Constraints
 
 This repository contains the implementation for the paper _``Better Later Than Sooner: Neuro-Symbolic Knowledge Graph Construction via Ontology-grounded Post-extraction Correction``_.
 
